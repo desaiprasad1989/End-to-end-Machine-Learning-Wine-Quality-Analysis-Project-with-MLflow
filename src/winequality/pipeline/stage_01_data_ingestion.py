@@ -1,5 +1,3 @@
-from re import S
-
 from winequality.config.configuration import ConfigurationManager
 from winequality.components.data_ingestion import DataIngestion
 from winequality import logger
