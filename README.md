@@ -11,7 +11,7 @@ Update the pipeline      (src/winequality/pipeline)
 Update the main.py  
 Update the app.py
 
-
+### Scroll down to view Flask UI 👇🧐
 
 # How to run?
 ### STEPS:
@@ -79,3 +79,9 @@ export MLFLOW_TRACKING_USERNAME=desaiprasad1989
 export MLFLOW_TRACKING_PASSWORD=5bb761db3566d027396855e19669995db3293aee
 ```
 
+
+
+### Flask UI
+![Homepage Wine Quality Analysis](https://github.com/desaiprasad1989/End-to-end-Machine-Learning-Wine-Quality-Analysis-Project-with-MLflow/blob/main/static/assets/img/Homepage_WineQuality_Analysis.png)
+
+![Result Page - Wine Quality Analysis Score](https://github.com/desaiprasad1989/End-to-end-Machine-Learning-Wine-Quality-Analysis-Project-with-MLflow/blob/main/static/assets/img/Wine_Quality_ScorePage.png)
